@@ -4,7 +4,7 @@ Open your terminal or windows cmd.exe. <br>
 <code>git clone https://github.com/viCracker/ssh-client</code> <br>
 <code> cd ssh-client </code> <br>
 <br>
-<code> pip install requirements.txt</code> <br>
+<code> pip install -r requirements.txt</code> <br>
 Ensure you have python3 installed. <br>
 <code> python ssh_vic.py </code> <br>
 Press enter then Input the details to connect to the server. <br>
