@@ -12,7 +12,7 @@ def ssh_command(ip_addr, port, user_name, passwd, command):
         for line in output:
             print(line.strip())
 
-
+# script
 if __name__ == "__main__":
     try:
         import getpass
